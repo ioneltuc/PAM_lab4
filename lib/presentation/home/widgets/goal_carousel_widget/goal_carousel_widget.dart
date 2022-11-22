@@ -16,10 +16,8 @@ class _GoalCarouselWidgetState extends State<GoalCarouselWidget> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      //width: 310,
-      height: 281, //280 //325
+      height: 281,
       margin: const EdgeInsets.only(top: 0),
-      //decoration: BoxDecoration(border: Border.all(color: Colors.blueAccent),),
       child: Column(
         children: [
           Expanded(
