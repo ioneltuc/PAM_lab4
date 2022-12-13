@@ -1,0 +1,36 @@
+{
+  "goals": [
+    {
+      "id": 1,
+      "image": "https://www.muscleandfitness.com/wp-content/uploads/2019/09/Bodybuilder-In-Smokey-Room-Looking-Up-Holding-Dumbbells.jpg?quality=86&strip=all",
+      "title": "Body Building",
+      "description": "Full body workout",
+      "burn_calories": 120,
+      "duration": 3000
+    },
+    {
+      "id": 1,
+      "image": "https://cdn.muscleandstrength.com/sites/default/files/6-pack-guide-feature.jpg",
+      "title": "Six Pack Abs",
+      "description": "6 Best abs exercises",
+      "burn_calories": 456,
+      "duration": 32567
+    }
+  ],
+  "daily_exercises": [
+    {
+      "id": 1,
+      "title": "Exercise 1",
+      "image": "https://www.gannett-cdn.com/-mm-/1bf8593a22d25c61ada18adab149e20a3782c81b/c=68-0-873-453/local/-/media/2020/02/10/USATODAY/usatsports/MotleyFool-TMOT-c063c4d4-fitionic.jpg",
+      "burn_calories": 456,
+      "duration": 231
+    },
+    {
+      "id": 1,
+      "title": "Exercise 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "burn_calories": 221,
+      "duration": 435
+    }
+  ]
+}
